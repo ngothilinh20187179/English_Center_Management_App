@@ -45,8 +45,6 @@ This project is built on a modern Client-Server architecture, using the followin
    ![Untitled](https://github.com/ngothilinh20187179/Graduation-Project/assets/74759189/92a4f11c-e9cd-4bef-b3f1-d6bfba4d0661)
 5. Run BE in EnglishCenterManagement.sln (~\Graduation-Project\Backend), the window with path "https://localhost:7054/swagger/index.html" open
   ![image](https://github.com/ngothilinh20187179/Graduation-Project/assets/74759189/b069153d-f005-4174-b8d0-02ff6b243499)
-6. ~\Graduation-Project\Frontend Web contains 3 projects about FE, open one and run: "yarn install" -> "yarn start" to see the results, ex:
-  ![image](https://github.com/ngothilinh20187179/Graduation-Project/assets/74759189/f178573e-b464-4cdb-8778-280163305b8e)
 
 ### Frontend Setup
 
@@ -55,3 +53,7 @@ This project is built on a modern Client-Server architecture, using the followin
     - run: `yarn install`
 2.  Start Frontend
     - run: `yarn start`
+
+   ~\Graduation-Project\Frontend Web contains 3 projects about FE, after run see the results, ex:
+  ![image](https://github.com/ngothilinh20187179/Graduation-Project/assets/74759189/f178573e-b464-4cdb-8778-280163305b8e)
+
